@@ -1,8 +1,8 @@
-Every row in this SAS dataset corresponds to a brand choice occasion between Heinz and Hunts ketchup products. The purpose of this project is to provide marketing analytics insights to Heinz in the following ways: 
-1- Determine which promotional methods are effective in influencing consumer brand choice.
+Every row in this SAS dataset corresponds to a brand choice occasion between Heinz and Hunts ketchup products. The purpose of this project is to provide marketing analytics insights to Heinz in the following ways:  
+1- Determine which promotional methods are effective in influencing consumer brand choice.  
 2- Build a machine learning model that predicts whether a customer is likely to choose Heinz based on prices and promotional methods. This model is to be used to send coupons to potential Heinz customers at minimum misclassification cost.
 
-The dataset consists of the following variables:
+The dataset consists of the following variables:  
 Heinz: 1 if Heinz was purchased, 0 if Hunts was purchased
 PriceHeinz: Price of Heinz at the time of purchase
 PriceHunts: Price of Hunts at the time of purchase
